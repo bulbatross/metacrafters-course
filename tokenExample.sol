@@ -18,7 +18,6 @@ contract MyToken {
 
     // public variables here
     string public tokenName = "bulbaCoin";
-    string public outbrief = "MTA";
     uint public totalSupply = 0;
     // mapping variable here
     mapping(address=>uint) public balances;
